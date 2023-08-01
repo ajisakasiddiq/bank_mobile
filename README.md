@@ -1,4 +1,4 @@
-# bank_mobile
+# E-Wallet Mobile with Flutter
 
 A new Flutter project.
 
